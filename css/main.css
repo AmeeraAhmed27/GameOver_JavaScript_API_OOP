@@ -39,7 +39,9 @@ p,
 span {
   color: inherit !important;
 }
-
+p{
+  color: #fff;
+}
 ul {
   list-style-position: inside;
 }
